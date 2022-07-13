@@ -1,0 +1,192 @@
+Contract ID: 22245263
+Strike Price: 1500.0; Years to expiration: 0.9640586237401028; Theoretical Options Price: 903.1369676231052; 
+
+Contract ID: 22245261
+Strike Price: 500.0; Years to expiration: 0.9640586052840884; Theoretical Options Price: 1023.3369992541737; 
+
+Contract ID: 22243879
+Strike Price: 1000.0; Years to expiration: 0.9640585902922048; Theoretical Options Price: 962.5889108989568; 
+
+Contract ID: 22241541
+Strike Price: 20000.0; Years to expiration: 0.9640585752077616; Theoretical Options Price: 112.54981989882478; 
+
+Contract ID: 22241539
+Strike Price: 10000.0; Years to expiration: 0.964058557908897; Theoretical Options Price: 307.7679549137795; 
+
+Contract ID: 22241537
+Strike Price: 6000.0; Years to expiration: 0.9640585431598849; Theoretical Options Price: 498.9283619900487; 
+
+Contract ID: 22241535
+Strike Price: 4000.0; Years to expiration: 0.9640585249413367; Theoretical Options Price: 647.7186014425445; 
+
+Contract ID: 22241533
+Strike Price: 3000.0; Years to expiration: 0.9640585065167048; Theoretical Options Price: 740.3018667907983; 
+
+Contract ID: 22241531
+Strike Price: 2000.0; Years to expiration: 0.9640584882193942; Theoretical Options Price: 845.9056148212295; 
+
+Contract ID: 22245259
+Strike Price: 1500.0; Years to expiration: 0.7147434046077794; Theoretical Options Price: 775.6898617105635; 
+
+Contract ID: 22245257
+Strike Price: 500.0; Years to expiration: 0.7147433859761265; Theoretical Options Price: 979.0522876951611; 
+
+Contract ID: 22243877
+Strike Price: 1000.0; Years to expiration: 0.714743370672566; Theoretical Options Price: 875.1835544098906; 
+
+Contract ID: 22238765
+Strike Price: 20000.0; Years to expiration: 0.714743355335045; Theoretical Options Price: 16.671981490900997; 
+
+Contract ID: 22238763
+Strike Price: 10000.0; Years to expiration: 0.7147433397717535; Theoretical Options Price: 100.39988979195451; 
+
+Contract ID: 22238761
+Strike Price: 6000.0; Years to expiration: 0.7147433209999042; Theoretical Options Price: 247.11724711622713; 
+
+Contract ID: 22238759
+Strike Price: 4000.0; Years to expiration: 0.7147433024288766; Theoretical Options Price: 407.2655750525421; 
+
+Contract ID: 22238757
+Strike Price: 3000.0; Years to expiration: 0.7147432869919768; Theoretical Options Price: 527.730656674055; 
+
+Contract ID: 22238755
+Strike Price: 2000.0; Years to expiration: 0.7147432686177109; Theoretical Options Price: 683.7474969692245; 
+
+Contract ID: 22245255
+Strike Price: 500.0; Years to expiration: 0.4655423403157612; Theoretical Options Price: 903.1474777465764; 
+
+Contract ID: 22245253
+Strike Price: 1500.0; Years to expiration: 0.4655423247679531; Theoretical Options Price: 565.543658850806; 
+
+Contract ID: 22243875
+Strike Price: 1000.0; Years to expiration: 0.46554230971566346; Theoretical Options Price: 726.0009155925294; 
+
+Contract ID: 22234053
+Strike Price: 3000.0; Years to expiration: 0.46554229433901084; Theoretical Options Price: 246.38167267429748; 
+
+Contract ID: 22229309
+Strike Price: 30000.0; Years to expiration: 0.46554227576779417; Theoretical Options Price: 0.015291584556201485; 
+
+Contract ID: 22229307
+Strike Price: 20000.0; Years to expiration: 0.4655422569350852; Theoretical Options Price: 0.21865600857154366; 
+
+Contract ID: 22229305
+Strike Price: 10000.0; Years to expiration: 0.4655422415611996; Theoretical Options Price: 7.589090047246117; 
+
+Contract ID: 22229303
+Strike Price: 6000.0; Years to expiration: 0.46554222065106765; Theoretical Options Price: 48.58963784623427; 
+
+Contract ID: 22229301
+Strike Price: 4000.0; Years to expiration: 0.46554220557423753; Theoretical Options Price: 140.6957499195796; 
+
+Contract ID: 22229299
+Strike Price: 2000.0; Years to expiration: 0.4655421901989458; Theoretical Options Price: 432.05322877295686; 
+
+Contract ID: 22245251
+Strike Price: 2250.0; Years to expiration: 0.2161129509765657; Theoretical Options Price: 74.39930878395836; 
+
+Contract ID: 22245249
+Strike Price: 2500.0; Years to expiration: 0.21611293222945333; Theoretical Options Price: 49.03601119646936; 
+
+Contract ID: 22245247
+Strike Price: 1500.0; Years to expiration: 0.21611291374163327; Theoretical Options Price: 242.94035214706173; 
+
+Contract ID: 22245245
+Strike Price: 1250.0; Years to expiration: 0.21611289515449486; Theoretical Options Price: 344.8296153728586; 
+
+Contract ID: 22245243
+Strike Price: 750.0; Years to expiration: 0.2161128800255296; Theoretical Options Price: 617.8966433491482; 
+
+Contract ID: 22245241
+Strike Price: 500.0; Years to expiration: 0.21611286116248155; Theoretical Options Price: 772.4405697306004; 
+
+Contract ID: 22243873
+Strike Price: 1000.0; Years to expiration: 0.21611284593166524; Theoretical Options Price: 472.051471554282; 
+
+Contract ID: 22239615
+Strike Price: 3000.0; Years to expiration: 0.2161128276201794; Theoretical Options Price: 21.148631371561137; 
+
+Contract ID: 22229297
+Strike Price: 30000.0; Years to expiration: 0.2161128090221618; Theoretical Options Price: 6.537959047147896e-11; 
+
+Contract ID: 22229295
+Strike Price: 20000.0; Years to expiration: 0.21611279215024456; Theoretical Options Price: 6.880612622016045e-08; 
+
+Contract ID: 22229293
+Strike Price: 10000.0; Years to expiration: 0.21611277684328947; Theoretical Options Price: 0.0009876628780346938; 
+
+Contract ID: 22229291
+Strike Price: 6000.0; Years to expiration: 0.21611276163638604; Theoretical Options Price: 0.1830740046757573; 
+
+Contract ID: 22229289
+Strike Price: 4000.0; Years to expiration: 0.21611274318122609; Theoretical Options Price: 4.022363184685776; 
+
+Contract ID: 22229287
+Strike Price: 2000.0; Years to expiration: 0.21611272811888138; Theoretical Options Price: 111.95753535642092; 
+
+Contract ID: 22245239
+Strike Price: 1500.0; Years to expiration: 0.12022229861139586; Theoretical Options Price: 99.15841587581662; 
+
+Contract ID: 22245237
+Strike Price: 1250.0; Years to expiration: 0.12022228019196542; Theoretical Options Price: 190.86543155033087; 
+
+Contract ID: 22245235
+Strike Price: 500.0; Years to expiration: 0.1202222615386223; Theoretical Options Price: 699.8273344343477; 
+
+Contract ID: 22245231
+Strike Price: 750.0; Years to expiration: 0.12022224199324316; Theoretical Options Price: 508.83010956738974; 
+
+Contract ID: 22243091
+Strike Price: 6000.0; Years to expiration: 0.12022222687284365; Theoretical Options Price: 5.501140936715399e-05; 
+
+Contract ID: 22243089
+Strike Price: 5000.0; Years to expiration: 0.12022220811418685; Theoretical Options Price: 0.0011008617426702845; 
+
+Contract ID: 22243087
+Strike Price: 4000.0; Years to expiration: 0.12022218814513395; Theoretical Options Price: 0.026669596026508202; 
+
+Contract ID: 22243085
+Strike Price: 3000.0; Years to expiration: 0.12022217277806764; Theoretical Options Price: 0.7594814920488817; 
+
+Contract ID: 22243083
+Strike Price: 2000.0; Years to expiration: 0.12022212071892181; Theoretical Options Price: 21.7753965333724; 
+
+Contract ID: 22243081
+Strike Price: 1000.0; Years to expiration: 0.12022210551756762; Theoretical Options Price: 331.18293667679654; 
+
+Contract ID: 22245233
+Strike Price: 500.0; Years to expiration: 0.04350975610651473; Theoretical Options Price: 629.8459125917509; 
+
+Contract ID: 22243885
+Strike Price: 750.0; Years to expiration: 0.04350973729449048; Theoretical Options Price: 402.6805495581714; 
+
+Contract ID: 22243883
+Strike Price: 1250.0; Years to expiration: 0.04350972194606008; Theoretical Options Price: 55.03301273239771; 
+
+Contract ID: 22243881
+Strike Price: 1500.0; Years to expiration: 0.043509706426398634; Theoretical Options Price: 9.927986604991105; 
+
+Contract ID: 22243871
+Strike Price: 1000.0; Years to expiration: 0.043509691368121294; Theoretical Options Price: 189.75049951464746; 
+
+Contract ID: 22241101
+Strike Price: 20000.0; Years to expiration: 0.04350967276648995; Theoretical Options Price: 1.4717990826132933e-55; 
+
+Contract ID: 22241099
+Strike Price: 10000.0; Years to expiration: 0.043509653801500105; Theoretical Options Price: 8.648665672697398e-32; 
+
+Contract ID: 22241097
+Strike Price: 6000.0; Years to expiration: 0.043509638616528866; Theoretical Options Price: 1.8509845570447934e-18; 
+
+Contract ID: 22241095
+Strike Price: 5000.0; Years to expiration: 0.04350962352420037; Theoretical Options Price: 1.4722407974779153e-14; 
+
+Contract ID: 22241093
+Strike Price: 4000.0; Years to expiration: 0.04350960511409166; Theoretical Options Price: 2.1588668415164169e-10; 
+
+Contract ID: 22241091
+Strike Price: 3000.0; Years to expiration: 0.043509582058631; Theoretical Options Price: 5.333237179508778e-06; 
+
+Contract ID: 22241089
+Strike Price: 2000.0; Years to expiration: 0.0435095669679355; Theoretical Options Price: 0.12717253931219785; 
+
