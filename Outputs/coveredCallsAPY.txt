@@ -1,0 +1,192 @@
+Contract ID: 22245263
+Strike Price: 1500.0; Years to expiration: 0.9553010305588558; Theoretical APY: 0.22733258186317015; 
+
+Contract ID: 22245261
+Strike Price: 500.0; Years to expiration: 0.955301006278317; Theoretical APY: -1; 
+
+Contract ID: 22243879
+Strike Price: 1000.0; Years to expiration: 0.9553009917733709; Theoretical APY: -1; 
+
+Contract ID: 22241541
+Strike Price: 20000.0; Years to expiration: 0.9553009726907671; Theoretical APY: 0.019944210351445606; 
+
+Contract ID: 22241539
+Strike Price: 10000.0; Years to expiration: 0.955300951245592; Theoretical APY: 0.016485314024592485; 
+
+Contract ID: 22241537
+Strike Price: 6000.0; Years to expiration: 0.955300927143013; Theoretical APY: 0.007262920878895853; 
+
+Contract ID: 22241535
+Strike Price: 4000.0; Years to expiration: 0.9553009047627767; Theoretical APY: 0.07301617248400913; 
+
+Contract ID: 22241533
+Strike Price: 3000.0; Years to expiration: 0.9553008849503106; Theoretical APY: 0.03796673788648982; 
+
+Contract ID: 22241531
+Strike Price: 2000.0; Years to expiration: 0.9553008641244297; Theoretical APY: 0.03727667911705386; 
+
+Contract ID: 22245259
+Strike Price: 1500.0; Years to expiration: 0.7059857716393662; Theoretical APY: 0.10295697200294171; 
+
+Contract ID: 22245257
+Strike Price: 500.0; Years to expiration: 0.7059857503531217; Theoretical APY: -1; 
+
+Contract ID: 22243877
+Strike Price: 1000.0; Years to expiration: 0.7059857259287802; Theoretical APY: -1; 
+
+Contract ID: 22238765
+Strike Price: 20000.0; Years to expiration: 0.7059857076729754; Theoretical APY: 0.0002599923770995939; 
+
+Contract ID: 22238763
+Strike Price: 10000.0; Years to expiration: 0.7059856878750022; Theoretical APY: 0.009835511099132038; 
+
+Contract ID: 22238761
+Strike Price: 6000.0; Years to expiration: 0.7059856608235354; Theoretical APY: 0.05197815530754824; 
+
+Contract ID: 22238759
+Strike Price: 4000.0; Years to expiration: 0.7059856389151089; Theoretical APY: 0.06136091005544479; 
+
+Contract ID: 22238757
+Strike Price: 3000.0; Years to expiration: 0.7059856193688832; Theoretical APY: 0.01764082588896404; 
+
+Contract ID: 22238755
+Strike Price: 2000.0; Years to expiration: 0.7059855979287808; Theoretical APY: 0.19147953991369274; 
+
+Contract ID: 22245255
+Strike Price: 500.0; Years to expiration: 0.456784664173868; Theoretical APY: -1; 
+
+Contract ID: 22245253
+Strike Price: 1500.0; Years to expiration: 0.4567846491353984; Theoretical APY: 0.1117159875393825; 
+
+Contract ID: 22243875
+Strike Price: 1000.0; Years to expiration: 0.4567846303579772; Theoretical APY: -1; 
+
+Contract ID: 22234053
+Strike Price: 3000.0; Years to expiration: 0.4567846158296929; Theoretical APY: 0.02242324107308007; 
+
+Contract ID: 22229309
+Strike Price: 30000.0; Years to expiration: 0.45678459440322167; Theoretical APY: 0.022356496484558907; 
+
+Contract ID: 22229307
+Strike Price: 20000.0; Years to expiration: 0.45678457006272294; Theoretical APY: 0.020012141887518122; 
+
+Contract ID: 22229305
+Strike Price: 10000.0; Years to expiration: 0.456784546930995; Theoretical APY: 0.018013075508379637; 
+
+Contract ID: 22229303
+Strike Price: 6000.0; Years to expiration: 0.4567845204864916; Theoretical APY: 0.01069526420227843; 
+
+Contract ID: 22229301
+Strike Price: 4000.0; Years to expiration: 0.4567844922928067; Theoretical APY: 0.06466595905884738; 
+
+Contract ID: 22229299
+Strike Price: 2000.0; Years to expiration: 0.45678446788856797; Theoretical APY: 0.2026560674280975; 
+
+Contract ID: 22245251
+Strike Price: 2250.0; Years to expiration: 0.207355224089422; Theoretical APY: 79.7075838042493; 
+
+Contract ID: 22245249
+Strike Price: 2500.0; Years to expiration: 0.20735520372184052; Theoretical APY: 0.30033871558532754; 
+
+Contract ID: 22245247
+Strike Price: 1500.0; Years to expiration: 0.20735517775558052; Theoretical APY: 0.6057011667138683; 
+
+Contract ID: 22245245
+Strike Price: 1250.0; Years to expiration: 0.20735514832531088; Theoretical APY: -1; 
+
+Contract ID: 22245243
+Strike Price: 750.0; Years to expiration: 0.20735513000266617; Theoretical APY: -1; 
+
+Contract ID: 22245241
+Strike Price: 500.0; Years to expiration: 0.20735511166425843; Theoretical APY: -1; 
+
+Contract ID: 22243873
+Strike Price: 1000.0; Years to expiration: 0.2073550968929815; Theoretical APY: -1; 
+
+Contract ID: 22239615
+Strike Price: 3000.0; Years to expiration: 0.20735502728668642; Theoretical APY: 0.012404655481923873; 
+
+Contract ID: 22229297
+Strike Price: 30000.0; Years to expiration: 0.20735500275412075; Theoretical APY: 0.028173393546272348; 
+
+Contract ID: 22229295
+Strike Price: 20000.0; Years to expiration: 0.20735498204958855; Theoretical APY: 0.005316164874345653; 
+
+Contract ID: 22229293
+Strike Price: 10000.0; Years to expiration: 0.20735496108970292; Theoretical APY: 0.02835350729610299; 
+
+Contract ID: 22229291
+Strike Price: 6000.0; Years to expiration: 0.20735493963352772; Theoretical APY: 0.029768779246615952; 
+
+Contract ID: 22229289
+Strike Price: 4000.0; Years to expiration: 0.20735491442741597; Theoretical APY: 0.04252589516566999; 
+
+Contract ID: 22229287
+Strike Price: 2000.0; Years to expiration: 0.20735488727505075; Theoretical APY: 0.2587315504724001; 
+
+Contract ID: 22245239
+Strike Price: 1500.0; Years to expiration: 0.11146445557277011; Theoretical APY: 0.725313597688746; 
+
+Contract ID: 22245237
+Strike Price: 1250.0; Years to expiration: 0.11146443189986009; Theoretical APY: -1; 
+
+Contract ID: 22245235
+Strike Price: 500.0; Years to expiration: 0.1114644136222137; Theoretical APY: -1; 
+
+Contract ID: 22245231
+Strike Price: 750.0; Years to expiration: 0.11146439875107408; Theoretical APY: -1; 
+
+Contract ID: 22243091
+Strike Price: 6000.0; Years to expiration: 0.11146438054027502; Theoretical APY: 0.009888756962409848; 
+
+Contract ID: 22243089
+Strike Price: 5000.0; Years to expiration: 0.11146435629845211; Theoretical APY: 0.009888759113065923; 
+
+Contract ID: 22243087
+Strike Price: 4000.0; Years to expiration: 0.11146432959789224; Theoretical APY: 0.006262882271841036; 
+
+Contract ID: 22243085
+Strike Price: 3000.0; Years to expiration: 0.1114643090116394; Theoretical APY: 0.009888763308201607; 
+
+Contract ID: 22243083
+Strike Price: 2000.0; Years to expiration: 0.11146428502850397; Theoretical APY: 0.20762440633696969; 
+
+Contract ID: 22243081
+Strike Price: 1000.0; Years to expiration: 0.11146426180571332; Theoretical APY: -1; 
+
+Contract ID: 22245233
+Strike Price: 500.0; Years to expiration: 0.03475191571426265; Theoretical APY: -1; 
+
+Contract ID: 22243885
+Strike Price: 750.0; Years to expiration: 0.03475190038241934; Theoretical APY: -1; 
+
+Contract ID: 22243883
+Strike Price: 1250.0; Years to expiration: 0.03475188191438435; Theoretical APY: -1; 
+
+Contract ID: 22243881
+Strike Price: 1500.0; Years to expiration: 0.034751865566147275; Theoretical APY: 0.7399131446153785; 
+
+Contract ID: 22243871
+Strike Price: 1000.0; Years to expiration: 0.03475183939694119; Theoretical APY: -1; 
+
+Contract ID: 22241101
+Strike Price: 20000.0; Years to expiration: 0.0347518208571523; Theoretical APY: 0.0528475126135661; 
+
+Contract ID: 22241099
+Strike Price: 10000.0; Years to expiration: 0.034751800301185666; Theoretical APY: 0.05285259132002832; 
+
+Contract ID: 22241097
+Strike Price: 6000.0; Years to expiration: 0.03475177153712871; Theoretical APY: 0.052847587615226545; 
+
+Contract ID: 22241095
+Strike Price: 5000.0; Years to expiration: 0.03475174716470328; Theoretical APY: 0.052847624678798694; 
+
+Contract ID: 22241093
+Strike Price: 4000.0; Years to expiration: 0.03475172350475142; Theoretical APY: 0.04229024474052887; 
+
+Contract ID: 22241091
+Strike Price: 3000.0; Years to expiration: 0.034751702613648516; Theoretical APY: 0.031708615457099125; 
+
+Contract ID: 22241089
+Strike Price: 2000.0; Years to expiration: 0.03475167958148841; Theoretical APY: 0.13741519563874638; 
+
